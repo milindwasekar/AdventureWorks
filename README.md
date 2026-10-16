@@ -3,7 +3,7 @@ SalesDashboard
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of an bike company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ![ss]((https://github.com/milindwasekar/AdventureWorks/blob/main/Sales%20Dashboard%20for%20Adventure%20Works_SS.png)
 
@@ -15,10 +15,8 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 ### Tools
 
 - Excel - Data Cleaning
-  - [Download here](https://microsoft.com)
 - SQL Server - Data Analysis
 - PowerBI - Creating reports
-
 
 ### Data Cleaning/Preparation
 
