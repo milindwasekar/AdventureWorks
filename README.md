@@ -20,4 +20,4 @@ In the initial data preparation phase, we performed the following tasks:
 2. Handling missing values.
 3. Data cleaning and formatting.
 ### Screenshot
-   ![ss]((https://github.com/milindwasekar/AdventureWorks/blob/main/Sales%20Dashboard%20for%20Adventure%20Works_SS.png)
+((https://github.com/milindwasekar/AdventureWorks/blob/main/Sales%20Dashboard%20for%20Adventure%20Works_SS.png)
