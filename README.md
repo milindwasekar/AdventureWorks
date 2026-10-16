@@ -5,7 +5,7 @@ SalesDashboard
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![bar plot][((https://github.com/milindwasekar/AdventureWorks/blob/main/Sales%20Dashboard%20for%20Adventure%20Works_SS.png)
+![ss]((https://github.com/milindwasekar/AdventureWorks/blob/main/Sales%20Dashboard%20for%20Adventure%20Works_SS.png)
 
 
 ### Data Sources
